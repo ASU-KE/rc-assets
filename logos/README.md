@@ -2,7 +2,7 @@ Research Computing Logos
 ========================
 
 All logos were downloaded as a zip file from the official ASU repository
-[1](widen). The logo names have been simplified to
+[widen][1]. The logo names have been simplified to
 `ASURC_<text color>[shape]_<resolution>.png` and only the `png` versions
 are exposed in this repo. All backgrounds are transparent. There are
 several options for text color, shape, and resolution:
@@ -14,12 +14,12 @@ several options for text color, shape, and resolution:
 Examples 
 --------
 
-<img href="ASURC_color_600.png" height=80>
-<img href="ASURC_white_600.png" height=80>
-<img href="ASURC_black_600.png" height=80>
-<img href="ASURC_color_square_600.png" height=80>
-<img href="ASURC_white_square_600.png" height=80>
-<img href="ASURC_black_square_600.png" height=80>
+<img height=80 src="ASURC_color_600.png" >
+<img height=80 src="ASURC_white_600.png" >
+<img height=80 src="ASURC_black_600.png" >
+<img height=80 src="ASURC_color_square_600.png">
+<img height=80 src="ASURC_white_square_600.png">
+<img height=80 src="ASURC_black_square_600.png">
 
 
 [1]: https://collective.asu.edu/dam/dashboard
