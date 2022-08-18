@@ -17,7 +17,7 @@ Samples
 Below are samples of the logos, shown at 600 pixel-per-inch resolution.
 The square format is shown for each text color option first.
 
-<div float="left" style="background: repeating-conic-gradient(#808080 0% 25%, transparent 0% 50%) 50% / 20px 20px;">
+<div float="left" style="background:blue;">
 <img height=90 src="ASURC_color_square_600.png" alt="Color, Square" >
 <img height=90 src="ASURC_color_600.png"        alt="Color"         >
 <img height=90 src="ASURC_white_square_600.png" alt="White, Square" >
