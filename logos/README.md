@@ -14,12 +14,18 @@ several options for text color, shape, and resolution:
 Examples 
 --------
 
-<img height=80 src="ASURC_color_600.png" >
-<img height=80 src="ASURC_white_600.png" >
-<img height=80 src="ASURC_black_600.png" >
+<div float="left">
 <img height=80 src="ASURC_color_square_600.png">
+<img height=80 src="ASURC_color_600.png" >
+</div>
+<div float="left">
 <img height=80 src="ASURC_white_square_600.png">
+<img height=80 src="ASURC_white_600.png" >
+</div>
+<div float="left">
+<img height=80 src="ASURC_black_600.png" >
 <img height=80 src="ASURC_black_square_600.png">
+</div>
 
 
 [1]: https://collective.asu.edu/dam/dashboard
