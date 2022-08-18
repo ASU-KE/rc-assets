@@ -3,10 +3,14 @@ Research Computing Logos
 
 All logos were downloaded as a zip file from the official ASU repository
 [widen][1]. The logo names have been simplified to  
-`ASURC_<text color>[shape]_<resolution>.png`   
-and only the `png` versions
-are exposed in this repo. All backgrounds are transparent. There are
-several options for text color, shape, and resolution:
+
+```
+ASURC_<text color>[shape]_<resolution>.png
+```
+
+and only the `png` versions are exposed in this repo. All backgrounds
+are transparent. There are several options for text color, shape, and
+resolution:
 
 * Text color: `color` (maroon & gold), `white`, or `black`.
 * Shape: default rectangular (horz) or square (vert).
