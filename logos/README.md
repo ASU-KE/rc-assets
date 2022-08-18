@@ -18,12 +18,12 @@ Below are samples of the logos, shown at 600 pixel-per-inch resolution.
 The square format is shown for each text color option first.
 
 <div float="left">
-<img height=90 src="ASURC_color_square_600.png" alt="Color, Square" style="background: repeating-conic-gradient(#808080 0% 25%, transparent 0% 50%) 50% / 20px 20px">
-<img height=90 src="ASURC_color_600.png"        alt="Color"         style="background: repeating-conic-gradient(#808080 0% 25%, transparent 0% 50%) 50% / 20px 20px">
-<img height=90 src="ASURC_white_square_600.png" alt="White, Square" style="background: repeating-conic-gradient(#808080 0% 25%, transparent 0% 50%) 50% / 20px 20px">
-<img height=90 src="ASURC_white_600.png"        alt="White"         style="background: repeating-conic-gradient(#808080 0% 25%, transparent 0% 50%) 50% / 20px 20px">
-<img height=90 src="ASURC_black_square_600.png" alt="Black, Square" style="background: repeating-conic-gradient(#808080 0% 25%, transparent 0% 50%) 50% / 20px 20px">
-<img height=90 src="ASURC_black_600.png"        alt="Black"         style="background: repeating-conic-gradient(#808080 0% 25%, transparent 0% 50%) 50% / 20px 20px">
+<img height=90 src="ASURC_color_square_600.png" alt="Color, Square" style="background: repeating-conic-gradient(#808080 0% 25%, transparent 0% 50%) 50% / 20px 20px;">
+<img height=90 src="ASURC_color_600.png"        alt="Color"         style="background: repeating-conic-gradient(#808080 0% 25%, transparent 0% 50%) 50% / 20px 20px;">
+<img height=90 src="ASURC_white_square_600.png" alt="White, Square" style="background: repeating-conic-gradient(#808080 0% 25%, transparent 0% 50%) 50% / 20px 20px;">
+<img height=90 src="ASURC_white_600.png"        alt="White"         style="background: repeating-conic-gradient(#808080 0% 25%, transparent 0% 50%) 50% / 20px 20px;">
+<img height=90 src="ASURC_black_square_600.png" alt="Black, Square" style="background: repeating-conic-gradient(#808080 0% 25%, transparent 0% 50%) 50% / 20px 20px;">
+<img height=90 src="ASURC_black_600.png"        alt="Black"         style="background: repeating-conic-gradient(#808080 0% 25%, transparent 0% 50%) 50% / 20px 20px;">
 </div>
 
 
