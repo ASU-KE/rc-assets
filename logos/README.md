@@ -1,8 +1,10 @@
 Research Computing Logos
 ========================
 
-All logos were downloaded as a zip file from the official ASU repository
-[widen][1]. The logo names have been simplified to  
+Most repository logos were downloaded as a zip file from the official 
+ASU repository [widen][1] (the exception is the custom banner jpg, 
+`ASURC_custom_gradient_banner.jpg`). The logo names have been 
+simplified to  
 
 ```
 ASURC_<text color>[shape]_<resolution>.png
@@ -29,6 +31,12 @@ The square format is shown for each text color option first.
   <img height=90 src="ASURC_white_600.png"        alt="White"         >
   <img height=90 src="ASURC_black_square_600.png" alt="Black, Square" >
   <img height=90 src="ASURC_black_600.png"        alt="Black"         >
+</div>
+
+And the custom banner:
+
+<div float="center">
+  <img height=200 src="ASURC_custom_gradient_banner.jpg" alt="Gradient, Banner" >
 </div>
 
 
